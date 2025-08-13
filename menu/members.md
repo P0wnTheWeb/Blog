@@ -4,9 +4,9 @@
 - **Name:** Mingi Jung
 - **Email:** mingijung.grape@gmail.com
 - **Research Interests:** <br>
-    Web security/privacy<br>
-    Browser & Browser-based cross-platform security/privacy<br>
-    Automatic code analysis (LLM) & Fuzzing & Automatic Pentesting<br>
+    &nbsp;&nbsp;Web security/privacy<br>
+    &nbsp;&nbsp;&nbsp;Browser & Browser-based cross-platform security/privacy<br>
+    &nbsp;&nbsp;&nbsp;Automatic code analysis (LLM) & Fuzzing & Automatic Pentesting<br>
     
 ##### CVE
 - CVE-2025-32792 @ Endo (Secure ECMAScript) (**$5,000**)
