@@ -7,12 +7,6 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web security/privacy<br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Browser & Browser-based cross-platform security/privacy<br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Automatic code analysis (LLM) & Fuzzing & Automatic Pentesting<br>
-    
-##### CVE
-- CVE-2025-32792 @ Endo (Secure ECMAScript) (**$5,000**)
-- CVE-2025-53600 @ Naver (whale Browser) (**$3,000)**<br><br>
-
-> Hi every one ~ <br>
-> Currently, I am a Member of WebSec-Lab(Unist) and P0wnTheWeb.<br>I have a broad interest in Web2 and Browser Security & Privacty.<br>I also enjoying playing CTF!!!
-
---
+- **CVE**
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CVE-2025-32792 @ Endo (Secure ECMAScript) (**$5,000**)
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CVE-2025-53600 @ Naver (whale Browser) (**$3,000)**<br><br>
