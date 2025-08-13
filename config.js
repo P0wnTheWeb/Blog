@@ -14,7 +14,7 @@ const users = [
   {
     id: 0, // default author
     username: "Mingi Jung",
-    company: "weniv",
+    company: "Ulsan National Institute of Science and Technology(WebSec-Lab)",
     position: "CEO",
     img: "img/user/profile-licat.png",
   },
