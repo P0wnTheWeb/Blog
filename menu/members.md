@@ -9,4 +9,4 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Automatic code analysis (LLM) & Fuzzing & Automatic Pentesting<br>
 -   **CVE**
     -   CVE-2025-32792 @ Endo (Secure ECMAScript) (**$5,000**)
-    -   CVE-2025-32792 @ Endo (Secure ECMAScript) (**$5,000**)
+    -   CVE-2025-53600 @ Naver (whale Browser) (**$3,000**)
